@@ -20,7 +20,7 @@ Nessa landing Page está contido uma proposta de 5 passos para solucionar os pro
 
 A solução passa pelo fornecimento de acesso a comunicação, fornecimento de conteúdo e acompanhamento do aluno.
 
-A solucião dos problemas de acesso à educação é com a aquisição de tablets + chips + conteudos para uso educacional. Os tablets devem ser entregues às escolas para facilitar o acesso dos alunos às atividades remotas desenvolvidas pelas escolas e aos conteúdos on-line e plataformas virtuais disponibilizados pelas empresas Publicas e Privadas através de parcerias.
+A solucão dos problemas de acesso à educação é com a aquisição de tablets + chips + conteudos para uso educacional. Os tablets devem ser entregues às escolas para facilitar o acesso dos alunos às atividades remotas desenvolvidas pelas escolas e aos conteúdos on-line e plataformas virtuais disponibilizados pelas empresas Publicas e Privadas através de parcerias.
 
 Essa ação tem como objetivo garantir condições de acesso e ampliar as possibilidades de aprendizagem por meio de ferramentas e práticas digitais, para que o estudante consiga organizar e aprimorar seus estudos.
 
