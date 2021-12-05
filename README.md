@@ -7,10 +7,10 @@ Publicado em : https://cranky-hamilton-7c4f36.netlify.app/
 
 ## [Desafio - HTML, CSS e JS - RocketSeat](https://www.notion.so/Desafio-HTML-CSS-e-JS-d214b654aec44c21b55a399a73fcfb04)
 
-Para o upload,
-siga os seguintes passos:
+Quer colocar o projeto essa landing page no ar ?
+Siga os seguintes passos:
 
-1. Faça uma copia do repostório
+1. Faça uma cópia do repostório
 2. Suba o projeto em algum server Html. Exemplo: Extensão "Go Live" do Visual Studio.
 3. Execute o index.html .
 
@@ -22,7 +22,7 @@ A solução passa pelo fornecimento de acesso a comunicação, fornecimento de c
 
 A solucião dos problemas de acesso à educação é com a aquisição de tablets + chips + conteudos para uso educacional. Os tablets devem ser entregues às escolas para facilitar o acesso dos alunos às atividades remotas desenvolvidas pelas escolas e aos conteúdos on-line e plataformas virtuais disponibilizados pelas empresas Publicas e Privadas através de parcerias.
 
-Essa ação tem como objetivo garantir condições de acesso e ampliar as possibilidades de aprendizagem por meio de ferramentas e práticas digitais, para que o estudante consiga organizar e aprimorar seus estudos,
+Essa ação tem como objetivo garantir condições de acesso e ampliar as possibilidades de aprendizagem por meio de ferramentas e práticas digitais, para que o estudante consiga organizar e aprimorar seus estudos.
 
 ![Edit](/images/01-pagina-inicial.png) ![Edit](/images/02-sobre.png)
 ![Edit](/images/03-5-passos-solucao.png) ![Edit](/images/04-footer.png)
