@@ -1,15 +1,18 @@
 # [Desafio - HTML, CSS e JS](https://efficient-sloth-d85.notion.site/Instru-es-dos-desafios-f2f2c5574cf640c59de425413f60c8eb?p=d214b654aec44c21b55a399a73fcfb04)
 
-[Resume](https://site) is a one page creative theme for [Bootstrap](http://getbootstrap.com/)
-created by [Lourrânio](https://github.com/lourranio).
+Landing Page > [site](https://cranky-hamilton-7c4f36.netlify.app/)
+Ttheme > [Bootstrap](http://getbootstrap.com/)
+
+Publicado em : https://cranky-hamilton-7c4f36.netlify.app/
 
 ## [Desafio - HTML, CSS e JS - RocketSeat](https://www.notion.so/Desafio-HTML-CSS-e-JS-d214b654aec44c21b55a399a73fcfb04)
 
-Siga os seguintes passos:
+Para o upload,
+siga os seguintes passos:
 
 1. Faça uma copia do repostório
-2. Suba o projeto em algum server Html. Exemplo: Go Live.
-3. Pronto.
+2. Suba o projeto em algum server Html. Exemplo: Extensão "Go Live" do Visual Studio.
+3. Execute o index.html .
 
 ## Descrição
 
@@ -24,17 +27,18 @@ Essa ação tem como objetivo garantir condições de acesso e ampliar as possib
 ![Edit](/images/01-pagina-inicial.png) ![Edit](/images/02-sobre.png)
 ![Edit](/images/03-5-passos-solucao.png) ![Edit](/images/04-footer.png)
 
+
 ### Termos técnicos
 A landing page contém somente: Html + Bootstrap 5 + Java Script.
 
 
 ## Bugs and Issues
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/lourranio/dowhile-landing-page/issues) here on GitHub.
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/xxx/issues) here on GitHub.
 
 ## Copyright and License
-
 Copyright 2016 ClearCareer. Code released under the [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
 
 ## Imagens utilizadas
 https://unsplash.com/photos/zFSo6bnZJTw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
@@ -46,7 +50,8 @@ https://fontawesome.com/v5.15/how-to-use/customizing-wordpress/snippets/setup-cd
 
 
 ## Cores Rocketseat
-# https://color.adobe.com/pt/skylab-rocketseat-color-theme-13537866/
+
+https://color.adobe.com/pt/skylab-rocketseat-color-theme-13537866/
 
 /* Color Theme Swatches in Hex */
 .skylab-rocketseat-1-hex { color: #19181F; }
@@ -71,8 +76,8 @@ https://fontawesome.com/v5.15/how-to-use/customizing-wordpress/snippets/setup-cd
 
 ## Extras
 
-[IconMoon](https://icomoon.io/)
-[FontAwesome](http://fontawesome.io/)
+> -  [IconMoon](https://icomoon.io/)
+> -  [FontAwesome](http://fontawesome.io/)
 
 <hr>
 
