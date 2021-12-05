@@ -53,26 +53,26 @@ https://fontawesome.com/v5.15/how-to-use/customizing-wordpress/snippets/setup-cd
 
 https://color.adobe.com/pt/skylab-rocketseat-color-theme-13537866/
 
-/* Color Theme Swatches in Hex */
-.skylab-rocketseat-1-hex { color: #19181F; }
-.skylab-rocketseat-2-hex { color: #67159C; }
-.skylab-rocketseat-3-hex { color: #1E1E26; }
-.skylab-rocketseat-4-hex { color: #07D962; }
-.skylab-rocketseat-5-hex { color: #E82D92; }
+> -  /* Color Theme Swatches in Hex */
+> -  .skylab-rocketseat-1-hex { color: #19181F; }
+> -  .skylab-rocketseat-2-hex { color: #67159C; }
+> -  .skylab-rocketseat-3-hex { color: #1E1E26; }
+> -  .skylab-rocketseat-4-hex { color: #07D962; }
+> -  .skylab-rocketseat-5-hex { color: #E82D92; }
 
-/* Color Theme Swatches in RGBA */
-.skylab-rocketseat-1-rgba { color: rgba(24, 23, 31, 1); }
-.skylab-rocketseat-2-rgba { color: rgba(103, 20, 156, 1); }
-.skylab-rocketseat-3-rgba { color: rgba(29, 29, 38, 1); }
-.skylab-rocketseat-4-rgba { color: rgba(7, 216, 98, 1); }
-.skylab-rocketseat-5-rgba { color: rgba(232, 45, 145, 1); }
+> -  /* Color Theme Swatches in RGBA */
+> -  .skylab-rocketseat-1-rgba { color: rgba(24, 23, 31, 1); }
+> -  .skylab-rocketseat-2-rgba { color: rgba(103, 20, 156, 1); }
+> -  .skylab-rocketseat-3-rgba { color: rgba(29, 29, 38, 1); }
+> -  .skylab-rocketseat-4-rgba { color: rgba(7, 216, 98, 1); }
+> -  .skylab-rocketseat-5-rgba { color: rgba(232, 45, 145, 1); }
 
-/* Color Theme Swatches in HSLA */
-.skylab-rocketseat-1-hsla { color: hsla(248, 12, 10, 1); }
-.skylab-rocketseat-2-hsla { color: hsla(276, 76, 34, 1); }
-.skylab-rocketseat-3-hsla { color: hsla(240, 11, 13, 1); }
-.skylab-rocketseat-4-hsla { color: hsla(146, 93, 43, 1); }
-.skylab-rocketseat-5-hsla { color: hsla(327, 80, 54, 1); }
+> -  /* Color Theme Swatches in HSLA */
+> -  .skylab-rocketseat-1-hsla { color: hsla(248, 12, 10, 1); }
+> -  .skylab-rocketseat-2-hsla { color: hsla(276, 76, 34, 1); }
+> -  .skylab-rocketseat-3-hsla { color: hsla(240, 11, 13, 1); }
+> -  .skylab-rocketseat-4-hsla { color: hsla(146, 93, 43, 1); }
+> -  .skylab-rocketseat-5-hsla { color: hsla(327, 80, 54, 1); }
 
 ## Extras
 
