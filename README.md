@@ -1,7 +1,7 @@
 # [Desafio - HTML, CSS e JS](https://efficient-sloth-d85.notion.site/Instru-es-dos-desafios-f2f2c5574cf640c59de425413f60c8eb?p=d214b654aec44c21b55a399a73fcfb04)
 
-Landing Page > [site](https://cranky-hamilton-7c4f36.netlify.app/)
-Theme > [Bootstrap](http://getbootstrap.com/)
+> -  Landing Page > [site](https://cranky-hamilton-7c4f36.netlify.app/)
+> -  Css > [Bootstrap](http://getbootstrap.com/)
 
 Publicado em : https://cranky-hamilton-7c4f36.netlify.app/
 
