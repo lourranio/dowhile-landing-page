@@ -1,7 +1,7 @@
 # [Desafio - HTML, CSS e JS](https://efficient-sloth-d85.notion.site/Instru-es-dos-desafios-f2f2c5574cf640c59de425413f60c8eb?p=d214b654aec44c21b55a399a73fcfb04)
 
 Landing Page > [site](https://cranky-hamilton-7c4f36.netlify.app/)
-Ttheme > [Bootstrap](http://getbootstrap.com/)
+Theme > [Bootstrap](http://getbootstrap.com/)
 
 Publicado em : https://cranky-hamilton-7c4f36.netlify.app/
 
@@ -33,11 +33,11 @@ A landing page contém somente: Html + Bootstrap 5 + Java Script.
 
 
 ## Bugs and Issues
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/lourranio/dowhile-landing-page/issues) here on GitHub.
+Have a bug or an issue ? [Open a new issue](https://github.com/lourranio/dowhile-landing-page/issues).
 
 
 ## Copyright and License
-Copyright 2016 ClearCareer. Code released under the [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+Copyright 2021. Code released under the [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 
 ## Imagens utilizadas
